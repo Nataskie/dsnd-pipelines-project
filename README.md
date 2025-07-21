@@ -2,11 +2,6 @@
 
 This project is part of Udacity’s Data Science Nanodegree and focuses on building a complete machine learning pipeline using scikit-learn to predict whether a customer would recommend a women's clothing product based on their review.
 
-
-## Getting Started
-
-Instructions for how to get a copy of the project running on your local machine.
-
 ### Dependencies
 
 ```
@@ -38,13 +33,13 @@ jupyter notebook starter/pipeline_project.ipynb
 
 ## Testing
 
-There are no automated tests required, but you can test the model pipeline by:
+There are no automated tests required. Test the model pipeline by:
 
 Running the notebook end-to-end
 
-Ensuring model_pipeline.fit() and model_pipeline.predict() run without error
+Ensuring model_pipeline.fit() and model_pipeline.predict() 
 
-Verifying model performance metrics are reported (e.g. F1-score)
+Verifying model performance metrics are reported 
 
 ## Project Instructions
 
