@@ -22,8 +22,6 @@ matplotlib
 
 Step by step explanation of how to get a dev environment running.
 
-List out the steps
-
 ```
 1. Clone the repository: 
 git clone https://github.com/udacity/dsnd-pipelines-project.git
