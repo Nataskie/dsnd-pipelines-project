@@ -9,8 +9,15 @@ pandas
 scikit-learn
 spacy
 notebook
+seaborn
+matplotlib
 ```
+### File Descriptions
 
+- `starter/pipeline_project.ipynb` – The main Jupyter Notebook containing all data exploration, pipeline construction, training, evaluation, and tuning.
+- `data/reviews.csv` – The cleaned dataset used for training and testing the model.
+- `requirements.txt` – Contains the list of required Python libraries to run this project.
+  
 ### Installation
 
 Step by step explanation of how to get a dev environment running.
